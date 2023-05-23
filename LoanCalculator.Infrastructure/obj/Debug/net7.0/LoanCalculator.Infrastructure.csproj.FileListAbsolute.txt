@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\project\LoanCalculator.Infrastructure\bin\Debug\net7.0\LoanCalculator.Infrastructure.deps.json
+C:\Users\Admin\Desktop\project\LoanCalculator.Infrastructure\bin\Debug\net7.0\LoanCalculator.Infrastructure.dll
+C:\Users\Admin\Desktop\project\LoanCalculator.Infrastructure\bin\Debug\net7.0\LoanCalculator.Infrastructure.pdb
+C:\Users\Admin\Desktop\project\LoanCalculator.Infrastructure\bin\Debug\net7.0\LoanCalculator.Application.dll
+C:\Users\Admin\Desktop\project\LoanCalculator.Infrastructure\bin\Debug\net7.0\LoanCalculator.Core.dll
+C:\Users\Admin\Desktop\project\LoanCalculator.Infrastructure\bin\Debug\net7.0\LoanCalculator.Core.pdb
+C:\Users\Admin\Desktop\project\LoanCalculator.Infrastructure\bin\Debug\net7.0\LoanCalculator.Application.pdb
+C:\Users\Admin\Desktop\project\LoanCalculator.Infrastructure\obj\Debug\net7.0\LoanCalculator.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\project\LoanCalculator.Infrastructure\obj\Debug\net7.0\LoanCalculator.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\project\LoanCalculator.Infrastructure\obj\Debug\net7.0\LoanCalculator.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\project\LoanCalculator.Infrastructure\obj\Debug\net7.0\LoanCalculator.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Desktop\project\LoanCalculator.Infrastructure\obj\Debug\net7.0\LoanCalculator.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\project\LoanCalculator.Infrastructure\obj\Debug\net7.0\LoanCalculator.Infrastructure.csproj.CopyComplete
+C:\Users\Admin\Desktop\project\LoanCalculator.Infrastructure\obj\Debug\net7.0\LoanCalculator.Infrastructure.dll
+C:\Users\Admin\Desktop\project\LoanCalculator.Infrastructure\obj\Debug\net7.0\refint\LoanCalculator.Infrastructure.dll
+C:\Users\Admin\Desktop\project\LoanCalculator.Infrastructure\obj\Debug\net7.0\LoanCalculator.Infrastructure.pdb
+C:\Users\Admin\Desktop\project\LoanCalculator.Infrastructure\obj\Debug\net7.0\ref\LoanCalculator.Infrastructure.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\project\LoanCalculator.Application\bin\Debug\net7.0\LoanCalculator.Application.deps.json
+C:\Users\Admin\Desktop\project\LoanCalculator.Application\bin\Debug\net7.0\LoanCalculator.Application.dll
+C:\Users\Admin\Desktop\project\LoanCalculator.Application\bin\Debug\net7.0\LoanCalculator.Application.pdb
+C:\Users\Admin\Desktop\project\LoanCalculator.Application\bin\Debug\net7.0\LoanCalculator.Core.dll
+C:\Users\Admin\Desktop\project\LoanCalculator.Application\bin\Debug\net7.0\LoanCalculator.Core.pdb
+C:\Users\Admin\Desktop\project\LoanCalculator.Application\obj\Debug\net7.0\LoanCalculator.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\project\LoanCalculator.Application\obj\Debug\net7.0\LoanCalculator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\project\LoanCalculator.Application\obj\Debug\net7.0\LoanCalculator.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\project\LoanCalculator.Application\obj\Debug\net7.0\LoanCalculator.Application.AssemblyInfo.cs
+C:\Users\Admin\Desktop\project\LoanCalculator.Application\obj\Debug\net7.0\LoanCalculator.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\project\LoanCalculator.Application\obj\Debug\net7.0\LoanCalculator.Application.csproj.CopyComplete
+C:\Users\Admin\Desktop\project\LoanCalculator.Application\obj\Debug\net7.0\LoanCalculator.Application.dll
+C:\Users\Admin\Desktop\project\LoanCalculator.Application\obj\Debug\net7.0\refint\LoanCalculator.Application.dll
+C:\Users\Admin\Desktop\project\LoanCalculator.Application\obj\Debug\net7.0\LoanCalculator.Application.pdb
+C:\Users\Admin\Desktop\project\LoanCalculator.Application\obj\Debug\net7.0\ref\LoanCalculator.Application.dll

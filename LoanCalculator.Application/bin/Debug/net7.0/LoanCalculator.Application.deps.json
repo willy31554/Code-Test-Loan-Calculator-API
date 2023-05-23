@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LoanCalculator.Application/1.0.0": {
+        "dependencies": {
+          "LoanCalculator.Core": "1.0.0"
+        },
+        "runtime": {
+          "LoanCalculator.Application.dll": {}
+        }
+      },
+      "LoanCalculator.Core/1.0.0": {
+        "runtime": {
+          "LoanCalculator.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoanCalculator.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoanCalculator.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
