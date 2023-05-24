@@ -1,6 +1,5 @@
 using LoanCalculator.Application.Services;
 using LoanCalculator.Core.Models;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 
@@ -18,7 +17,6 @@ namespace LoanCalculator.Api.Controllers
         }
 
         [HttpPost]
-        [Authorize] // Add authorization attribute to require a valid token
         public IActionResult CalculateLoanBreakdown([FromBody] LoanParameters parameters)
         {
             try
