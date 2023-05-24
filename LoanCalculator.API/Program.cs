@@ -33,8 +33,7 @@ app.UseCors(options =>
 
 app.UseHttpsRedirection();
 app.UseRouting();
-app.UseAuthentication(); // Add authentication middleware
-app.UseAuthorization();
+//app.UseAuthorization(); // Remove this line
 
 app.MapControllers();
 
